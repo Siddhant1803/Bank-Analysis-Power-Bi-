@@ -5,5 +5,4 @@
 ![image](https://github.com/Siddhant1803/Bank-Analysis-Power-Bi-/assets/127285389/704134e3-4e55-4338-8f09-d96d1bc037fb)
 
 # Dashboard: 
-<img width="1200" alt="image" src="![Screenshot 2024-04-25 143908](https://github.com/Siddhant1803/Bank-Analysis-Power-Bi-/assets/127285389/13b05f38-2038-4f40-b1d4-4cc3efdc66f2)
-">
+<img width="1200" alt="image" src="Screenshot 2024-04-25 143908.png">
